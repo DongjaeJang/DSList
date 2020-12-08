@@ -14,8 +14,8 @@ New Data Structure created by linux term project
 ** Total memory usage = 4byte + 4byte + 1byte + 2*sizeof(data) = 9byte * 2*sizeof(data)
 
 
-*** Existing Doubly Linked List (picture 1) uses 8bytes for each node
-*** We devised new data structure that improves preformance in respect of memory usage.
-*** We store twice more data in one node and call this "cluster"
+*** Existing Doubly Linked List (picture 1) uses 8bytes for each node <br />
+*** We devised new data structure that improves preformance in respect of memory usage. <br />
+*** We store twice more data in one node and call this "cluster" <br />
 
 # DSList Data Structure
