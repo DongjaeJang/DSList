@@ -22,9 +22,9 @@ New Data Structure created by linux term project
 <img src = "https://user-images.githubusercontent.com/33143335/101709464-d7067580-3ad2-11eb-86f1-141f101c5660.png"/>
 
 * Inserted two data in one node and linked clusters. We call this "Double Storage List", DSList
-* Components
-  -> list_head : same with existing linux's doubly linked list.
-  -> toggle : flag variable that indicates structure up / down has data 
-  -> structure up & down : data stored in each position
-* Advance in Memory Storage
+* Components <br/>
+  -> list_head : same with existing linux's doubly linked list<br/>
+  -> toggle : flag variable that indicates structure up / down has data <br/>
+  -> structure up & down : data stored in each position<br/>
+* Advance in Memory Storage<br/>
   -> save 7bytes for each cluster by changing data structure of single node
